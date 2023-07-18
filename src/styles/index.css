@@ -13,6 +13,15 @@
     padding: 7px;
     border-radius: 10px;
 }
+.container1 {
+    position: relative;
+    background-color: black;
+    width: 63px;
+    height: 237px;
+    margin-left: 50px;
+    padding: 7px;
+    border-radius: 10px;
+}
 .light1 {
     position: absolute;
     width: 50px;
@@ -45,6 +54,17 @@
     padding: 4px;
     cursor: pointer;
     background-color: #009933;
+}
+.light4 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    margin-top: 169px;
+    border-radius: 50%;
+    padding: 4px;
+    cursor: pointer;
+    background-color: purple;
 }
 /*declaring the class selected, that has the property for given the glow effect in the light*/
 .selected {
